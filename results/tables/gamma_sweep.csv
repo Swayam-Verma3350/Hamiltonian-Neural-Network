@@ -1,0 +1,21 @@
+system,gamma,model,coord_mse
+Ideal mass-spring,0.0,baseline,0.3714873293932688
+Ideal mass-spring,0.05,baseline,0.20387887711238492
+Ideal mass-spring,0.1,baseline,0.10204295164202737
+Ideal mass-spring,0.2,baseline,0.02471239853486069
+Ideal mass-spring,0.4,baseline,0.0016873082600503044
+Ideal mass-spring,0.0,hnn,0.059553300835830235
+Ideal mass-spring,0.05,hnn,0.0284719966679996
+Ideal mass-spring,0.1,hnn,0.10498694668427634
+Ideal mass-spring,0.2,hnn,0.28320701375374846
+Ideal mass-spring,0.4,hnn,0.40394989922905744
+Ideal pendulum,0.0,baseline,0.6372617190357835
+Ideal pendulum,0.05,baseline,0.02645910386707728
+Ideal pendulum,0.1,baseline,0.06604307269779972
+Ideal pendulum,0.2,baseline,0.07524945796270392
+Ideal pendulum,0.4,baseline,0.01149460675503415
+Ideal pendulum,0.0,hnn,0.18195461090905354
+Ideal pendulum,0.05,hnn,3.32718274185291
+Ideal pendulum,0.1,hnn,3.4269421695669
+Ideal pendulum,0.2,hnn,2.937931353987807
+Ideal pendulum,0.4,hnn,2.7831965033921273
